@@ -1,7 +1,7 @@
 // A. Define an abstract class named Role:
 abstract class Role {
   void displayRole();
-}
+}k
 
 // B. Create an abstract class Person:
 abstract class Person implements Role {
